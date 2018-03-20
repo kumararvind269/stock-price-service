@@ -9,3 +9,6 @@ values(10003,'A3', 333);
 
 insert into STOCK_TBL (id,name,price)
 values(10004,'A4', 444);
+
+insert into STOCK_TBL (id,name,price)
+values(10005,'BHAI', 999);
