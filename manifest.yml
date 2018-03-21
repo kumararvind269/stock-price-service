@@ -1,5 +1,5 @@
 applications:
-- name: stock-service-3
+- name: stock-service-3-jar
 path: target/stock-price-service-0.0.1-SNAPSHOT.jar
 domain: cfapps.io
 memory: 1024M
